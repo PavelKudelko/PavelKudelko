@@ -14,10 +14,13 @@ problems.
 ## Skills
 
 - Python, C/C++, HTML/CSS/JavaScript, SQL (mySQL), Microsoft Office.
+- <img src="images/python-icon.png" alt="Python Logo" width="50" height="50">
+
 
 ## Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/pavel-kudelko-a29066295/))
+- [LinkedIn](https://www.linkedin.com/in/pavel-kudelko-a29066295/)
+- [Discord](pavelstargazer)
 
 Thank you for visiting my GitHub profile!
 
