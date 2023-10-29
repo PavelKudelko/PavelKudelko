@@ -19,7 +19,6 @@ problems.
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/pavel-kudelko-a29066295/)
-- [Email:kudelkopavel23@gmail.com]
   
 
 Thank you for visiting my GitHub profile!
