@@ -5,7 +5,7 @@ problems.
 
 ## About Me
 
-- :mortar_board: I’m IT student at LAB University of Applied Sciences (https://lab.fi/en).
+- :mortar_board: I’m an IT student at LAB University of Applied Sciences (https://lab.fi/en).
 - 🌱 I’m currently learning: Python, C, HTML/CSS/JavaScript.
 - :briefcase: I'm actively seeking internship or part-time job opportunities.
 - 📫 How to reach me: kudelkopavel23@gmail.com.
