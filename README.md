@@ -5,9 +5,9 @@ problems.
 
 ## About Me
 
-- :books: I’m IT student at LAB University of Applied Sciences (https://lab.fi/en).
+- :mortar_board: I’m IT student at LAB University of Applied Sciences (https://lab.fi/en).
 - 🌱 I’m currently learning: Python, C, HTML/CSS/JavaScript.
-- 👯 I’m looking for: internship or part-time job.
+- :briefcase: I'm actively seeking internship or part-time job opportunities.
 - 📫 How to reach me: kudelkopavel23@gmail.com.
 - ⚡ Fun fact: my mother tongue is machine code.
 
