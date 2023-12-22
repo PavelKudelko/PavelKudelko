@@ -7,7 +7,7 @@ problems.
 
 - :mortar_board: I’m an IT student at LAB University of Applied Sciences (https://lab.fi/en).
 - 🌱 I’m currently learning: Python, C/C++, HTML/CSS/JavaScript, Linux.
-- :briefcase: I'm actively seeking internship or part-time job opportunities.
+- :briefcase: I'm actively seeking internships.
 - 📫 How to reach me: pavelkudelko5@gmail.com
 - ⚡ Fun fact: my mother tongue is machine code.
 
