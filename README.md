@@ -13,7 +13,7 @@ problems.
 
 ## Skills
 
-- Python, C/C++, HTML/CSS/JavaScript, SQL (mySQL), Microsoft Office.
+- Python, Django, C/C++, HTML/CSS/JavaScript, SQL (mySQL), Microsoft Office.
 
 
 ## Connect with Me
