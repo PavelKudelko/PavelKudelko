@@ -9,7 +9,6 @@ problems.
 - 🌱 I’m currently learning: Python, C/C++, HTML/CSS/JavaScript, Linux.
 - :briefcase: I'm actively seeking internships.
 - 📫 How to reach me: pavelkudelko5@gmail.com
-- ⚡ Fun fact: my mother tongue is machine code.
 
 ## Skills
 
