@@ -8,7 +8,6 @@ problems.
 - :mortar_board: I’m an IT student at LAB University of Applied Sciences (https://lab.fi/en).
 - 🌱 I’m currently learning: Python, C/C++, HTML/CSS/JavaScript, Linux.
 - :briefcase: I'm actively seeking internships.
-- 📫 How to reach me: pavelkudelko5@gmail.com
 
 ## Skills
 
