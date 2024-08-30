@@ -1,17 +1,17 @@
 # Welcome to My GitHub Profile
 
-Hello, I'm Pavel, and this is my GitHub profile. I am an IT student with a strong passion for coding and solving complicated
+Hello, I'm Pavel, and this is my GitHub profile. I am an software engineering student with a strong passion for coding and solving complicated
 problems.
 
 ## About Me
 
-- :mortar_board: I’m an IT student at LAB University of Applied Sciences (https://lab.fi/en).
-- 🌱 I’m currently learning: Python, C/C++, HTML/CSS/JavaScript, Linux.
+- :mortar_board: I’m an IT student at TAMK (https://www.tuni.fi/en/about-us/tamk).
+- 🌱 I’m currently learning: Python, C/C++, HTML/CSS/JavaScript, Java.
 - :briefcase: I'm actively seeking internships.
 
 ## Skills
 
-- Python, Django, C/C++, HTML/CSS/JavaScript, SQL (mySQL), Microsoft Office.
+- Flutter, Python, Django, C/C++, HTML/CSS/JavaScript, SQL (mySQL).
 
 
 ## Connect with Me
