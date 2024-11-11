@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Welcome
 
 Hello, I'm Pavel a software engineering student with a strong passion for coding and solving complicated
 problems.
