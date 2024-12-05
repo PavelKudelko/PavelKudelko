@@ -11,8 +11,3 @@ problems.
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/pavel-kudelko-a29066295/)
-  
-
-Thank you for visiting my GitHub profile!
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your_username.your_username)
