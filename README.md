@@ -6,7 +6,7 @@ problems.
 ## About Me
 
 - :mortar_board: I’m a Software Engineering student at TAMK (https://www.tuni.fi/en/about-us/tamk).
-- :briefcase: I'm actively seeking internships.
+- :briefcase: Open for jobs and new connections!
 
 ## Connect with me
 
