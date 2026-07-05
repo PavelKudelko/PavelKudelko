@@ -1,8 +1,6 @@
 # Welcome
 
-Hello, I'm Pavel, software engineering student with a passion for solving problems.
-
-## About Me
+Hello, I'm Pavel.
 
 - :mortar_board: I study Software Engineering student at TAMK.
 - :briefcase: Open for jobs and new connections!
